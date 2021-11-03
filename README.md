@@ -6,9 +6,12 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
 ![React JS](https://img.shields.io/badge/-React_JS-282A36?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-Laravel-282A36?style=flat&logo=laravel)&nbsp;
-![Express](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=php)&nbsp;
-
+![Laravel](https://img.shields.io/badge/-Laravel-282A36?style=flat&logo=laravel)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=php)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=html)&nbsp;
+![CSS 3](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=css)&nbsp;
+![Lumen](https://img.shields.io/badge/-Lumen-282A36?style=flat&logo=lumen)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-282A36?style=flat&logo=mysql)&nbsp;
 
 ## - My Github Stats
 
