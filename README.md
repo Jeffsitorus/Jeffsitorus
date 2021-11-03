@@ -8,8 +8,8 @@
 ![React JS](https://img.shields.io/badge/-React_JS-282A36?style=flat&logo=react)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-282A36?style=flat&logo=laravel)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=php)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=html)&nbsp;
-![CSS 3](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=css)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=html5)&nbsp;
+![CSS 3](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=css3)&nbsp;
 ![Lumen](https://img.shields.io/badge/-Lumen-282A36?style=flat&logo=lumen)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-282A36?style=flat&logo=mysql)&nbsp;
 
