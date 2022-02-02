@@ -1,5 +1,6 @@
 ## Hello Everyone 👋
 <p align='left'>Hi, I'm Jefri Sitorus</p>
+<p align='left'>Backend Developer | System Analyst</p>
 
 
 ## - Tech Stack
