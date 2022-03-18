@@ -16,6 +16,7 @@
 ![Vue JS](https://img.shields.io/badge/Vue.js-282A36?style=flat&logo=vue.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-282A36?style=flat&logo=bootstrap)&nbsp;
 ![Node JS](https://img.shields.io/badge/Node.js-282A36?style=flat&logo=node.js)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-282A36?style=flat&logo=react)&nbsp;
 
 ## - My Github Stats
 
