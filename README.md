@@ -13,7 +13,7 @@
 ![CSS 3](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=css3)&nbsp;
 ![Lumen](https://img.shields.io/badge/-Lumen-282A36?style=flat&logo=lumen)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-282A36?style=flat&logo=mysql)&nbsp;
-![Vue JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
+![Vue JS](https://img.shields.io/badge/Vue.js-282A36?style=flat&logo=vue.js)&nbsp;
 
 ## - My Github Stats
 
