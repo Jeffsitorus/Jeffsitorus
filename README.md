@@ -14,6 +14,8 @@
 ![Lumen](https://img.shields.io/badge/-Lumen-282A36?style=flat&logo=lumen)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-282A36?style=flat&logo=mysql)&nbsp;
 ![Vue JS](https://img.shields.io/badge/Vue.js-282A36?style=flat&logo=vue.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-282A36?style=flat&logo=bootstrap)&nbsp;
+![Node JS](https://img.shields.io/badge/Node.js-282A36?style=flat&logo=node.js)&nbsp;
 
 ## - My Github Stats
 
