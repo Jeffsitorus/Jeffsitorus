@@ -2,6 +2,12 @@
 <p align='left'>Hi, I'm Jefri Sitorus</p>
 <p align='left'>Backend Developer | System Analyst</p>
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Jeffsitorus&style=flat-square">
+  <br><br>
+</p>
 
 ## - Tech Stack
 
