@@ -9,8 +9,9 @@
   <br><br>
 </p>
 
+<p align="center">
 <a href="https://app.daily.dev/jefri19"><img src="https://api.daily.dev/devcards/8bd43e55321b41d686c9647a4053e600.png?r=usi" width="400" alt="Jefri H Sitorus's Dev Card"/></a>
-
+</p>
 ## - Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
