@@ -26,8 +26,3 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-282A36?style=flat&logo=bootstrap)&nbsp;
 ![Node JS](https://img.shields.io/badge/Node.js-282A36?style=flat&logo=node.js)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-282A36?style=flat&logo=react)&nbsp;
-
-## - My Github Stats
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Jeffsitorus&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/Jeffsitorus)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffsitorus&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/Jeffsitorus)
